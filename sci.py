@@ -9,7 +9,7 @@ base_url = 'https://www-mergentintellect-com.i.ezproxy.nypl.org/index.php/advanc
 
 login_payload = {
     'username': 'sks2601',
-    'password': 'Sahil@2601'
+    'password': '-'
 }
 data = []
 session = requests.Session()
